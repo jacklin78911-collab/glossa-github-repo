@@ -3,7 +3,7 @@
 ## 0.5.0
 
 - Added prompt presets for common reading tasks.
-- Added follow-up cards and tree rendering for a basic question graph.
+- Added follow-up cards and tree rendering for a basic question graph. 
 - Added Source button with best-effort jump back to saved web passages.
 - Stored card parent IDs and source locations.
 - Deleting a parent card now removes its descendants.
