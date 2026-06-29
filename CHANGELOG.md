@@ -11,7 +11,7 @@
 ## 0.4.0 
  
 - Added editable prompt templates in the Ask Models dialog.  
-- Removed source title and URL from the default prompt.
+- Removed source title and URL from the default prompt. 
 - Added optional `{{title}}` and `{{url}}` placeholders for users who want source metadata.
 
 ## 0.3.0
