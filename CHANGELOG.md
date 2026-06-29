@@ -8,7 +8,7 @@
 - Stored card parent IDs and source locations.
 - Deleting a parent card now removes its descendants.
 
-## 0.4.0
+## 0.4.0 
  
 - Added editable prompt templates in the Ask Models dialog. 
 - Removed source title and URL from the default prompt.
